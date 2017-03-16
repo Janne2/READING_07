@@ -1,0 +1,125 @@
+body{
+    background-color: ghostwhite
+}
+
+@font-face {
+    font-family: young;
+    src: url(YoungSerif-Regular.ttf);
+
+    }
+
+@font-face {
+    font-family: roboto;
+    src: url(Roboto-Bold.ttf);
+
+    }
+
+@font-face {
+    font-family: univers;
+    src: url(Univers.ttf);
+
+    }
+
+@font-face {
+    font-family: bembo;
+    src: url(BemboStd.otf);
+
+    }
+
+#balk p{
+    font-family: bembo;
+    color: darkgray;
+    font-size: 100px; 
+    margin-left: 450px;
+}
+
+#balk1{
+    font-family: roboto;
+    color: darkgray;
+    font-size: 20px; 
+    margin-top: -300px;
+    margin-left: 400px;
+}
+
+#balk2{
+    font-family: roboto;
+    font-size: 70px; 
+    margin-left: 700px;
+        color: darkgray;
+
+    
+}
+#balk3{
+    font-family: young;
+    font-size: 25px; 
+    margin-left: 30px;
+        color: darkgray;
+
+}
+
+#balk4{
+    font-family: young;
+    font-size: 25px; 
+    margin-left: 30px;
+    margin-top: -25px;
+        color: darkgray;
+
+
+}
+
+#balk5{
+    font-family: arial;
+    font-size: 60px; 
+    margin-top: -300px;
+    margin-left: 100px;
+        color: darkgray;
+
+}
+
+#balk6{
+    font-family: arial;
+    font-size: 20px;
+    margin-left: 400px;
+        color: darkgray;
+
+    
+}
+
+#balk7{
+    font-family: arial;
+    font-size: 20px; 
+    margin-left: 400px; 
+        color: darkgray;
+
+}
+
+#balk8{
+    font-family: roboto;
+    font-size: 20px;
+    margin-left: 600px;
+        color: darkgray;
+
+}
+
+#balk9{
+    font-family: arial;
+    font-size: 20px; 
+    margin-left: 100px;
+    margin-top: 30px;
+        color: darkgray;
+
+}
+
+#balk10{
+    font-family: arial;
+    font-size: 200px; 
+    margin-left:100px;
+    margin-top: -200px;
+        color: darkgray;
+
+}
+
+.frame{
+    width: 1200px;
+    height: 800px;
+}
